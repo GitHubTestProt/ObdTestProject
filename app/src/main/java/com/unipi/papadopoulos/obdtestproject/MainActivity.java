@@ -26,8 +26,9 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.AdapterView.OnItemClickListener;
-
-
+//***************Author***************//
+//*********Panagiotis Papadopoulos***//
+// ********University of Piraeus****//
 
 public class MainActivity extends Activity {
     // Debugging for LOGCAT
